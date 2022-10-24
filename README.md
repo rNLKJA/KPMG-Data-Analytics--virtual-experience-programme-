@@ -64,6 +64,30 @@ Refer to "Data Quality Framework Table" and resources below for criteria and dim
 
 Dataset link: https://cdn-assets.theforage.com/vinternship_modules/kpmg_data_analytics/KPMG_VI_New_raw_data_update_final.xlsx.
 
+### Resources
+
+**Data Quality Framework Table**
+Below is a list of the Data Quality dimension our team may use to evaluate a dataset. 
+Some of these terms are common to the whole industry, so you may find more information and clarity on these terms by searching online.
+
+<img src="https://cdn-assets.theforage.com/vinternship_modules/kpmg_data_analytics/Screen+Shot+2018-03-20+at+2.50.59+pm.png" align=center />
+
+### General approach
+
+Before state the problems you find, you should write a general report about the current dataset. 
+Including the number of data entries, data types, values, your understanding etc. Note, this might 
+be different from the data dictionary provided from your client, but it always a good start to 
+help you dive into the data and understand it's meaning.
+
+Except figure out the problems exist in any dataset. You should also propose a solution that could help you
+align with your client understanding. To state the issue, it's always a good idea that using a form instead of a long paragraph.
+
+At the end the process, you should also state the current
+workflow status and continue process the data. 
+
+Some of the phrase you may want to use.
+> Moving forward, the team will continue with the data cleaning, standardisation and transformation process for the purpose of model analysis. Questions will be raised along the way and assumptions documented. After we have completed this, it would be great to spend some time with your data SME to ensure that all assumptions are aligned with Sprocket Central’s understanding.
+
 ## [Data Insights](https://www.theforage.com/modules/m7W4GMqeT3bh9Nb2c/PH6AYWBqqJvSzDBbd?ref=SfSqDihCcvSen4csq)
 Targeting high value customers based on customers demographics and attributes.
 
