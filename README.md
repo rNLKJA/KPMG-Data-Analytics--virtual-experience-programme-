@@ -91,12 +91,32 @@ Some of the phrase you may want to use.
 ## [Data Insights](https://www.theforage.com/modules/m7W4GMqeT3bh9Nb2c/PH6AYWBqqJvSzDBbd?ref=SfSqDihCcvSen4csq)
 Targeting high value customers based on customers demographics and attributes.
 
-1. Video instructions
-2. Background information
-3. Task brief
-4. Task resources
-5. Sample solution
-6. Short conclusion
+### Background information
+Sprocket Central Pty Ltd has given us a new list of 1000 potential customers with their demographics and attributes.
+However, these customers do not have prior transacation history with the organisation.
+
+The marketing team at Sprocket Central Pty Ltd is sure that, if correctly analysed, 
+the data would reveal useful customer insights which could help optimise resource allocation for targeted marketing.
+Hence, improve performance by focusing on high value customers.
+
+### Tasks
+For context, Sprocket Central Pty Ltd is a long-standing KPMG client whom specialises in high-quality bikes and 
+accessible cycling accessories to riders. Their marketing team is looking to boost business by analysing 
+their existing customer dataset to determine customer trends and behaviour.
+
+Using the existing 3 datasets as a labelled dataset, please recommend which of these 1000 new customers
+should be targeted to drive the most value for the organisation.
+
+In building this recommendation, we need to start with a PowerPoint presentation which outlines the 
+approaches which we will be taking. The client agreed on 3 week scope with the following 3 phases as follows - Data Exploration; Model Development and Interpretation.
+
+Prepare a detailed approach for completing the analysis including activities - i.e. understanding the data 
+distributions, feature engineering, data transformations, modeling, results interpretation and reporting. 
+This detailed plan needs to be presented t othe client to get a sign-off. Please advise what steps you would take.
+
+Please ensure your PowerPoint presentation includes a detailed approach for our strategy behind each of the 
+3 phases including activities involved in each - i.e. understanding the data distribution, feature 
+engineering, data transformations, modelling, results interprationa and reporting. This detailed plan needs to be presented to the client to get a sign-off.
 
 ## [Data Insights and Presentation](https://www.theforage.com/modules/m7W4GMqeT3bh9Nb2c/PH6AYWBqqJvSzDBbd?ref=SfSqDihCcvSen4csq)
 Using visualisations to present insights.
