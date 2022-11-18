@@ -121,14 +121,30 @@ engineering, data transformations, modelling, results interprationa and reportin
 ## [Data Insights and Presentation](https://www.theforage.com/modules/m7W4GMqeT3bh9Nb2c/PH6AYWBqqJvSzDBbd?ref=SfSqDihCcvSen4csq)
 Using visualisations to present insights.
 
-1. Video instructions
-2. Background information
-3. Task breif
-4. Task resources
-5. Sample solution
-6. Short conclusion
+### Background information
+The client is happy with the analysis plan and would like us to proceed. After building the model we need to present our results
+back to the client.
 
-## Summary
+Visualisations such as interactive dashboards often help us highlight key findings and convey our ideas in a more succinct manner. 
+A list of cusotmers or algorithm won't cut it with the client, we need to support our results with the use of visualisations.
+
+### Tasks
+Please develop a dashboard that we can present to the client at our next meeting. Display your data summary and results of the 
+analysis in a dashboard. Maximum of 3 dashboard view/tabs, creativity in layout and presentation is welcome.
+
+As this is not a KPMG branded deliverable, please find attached a client logo for incorporation.
+
+<img src="https://cdn-assets.theforage.com/icons/kpmg_icons/sprocket_central_logo.png">
+
+It is important to keep in mind the business context when presenting your findings:
+- What are the trends in the underlying data?
+- Which customer segment has the highest customer value?
+- What do you propose should be Sprocket Central Pty Ltd ’s marketing and growth strategy?
+- What additional external datasets may be useful to obtain greater insights into customer preferences and propensity to purchase the products?
+
+Specifically, your presentation should specify who Sprocket Central Pty Ltd’s marketing team should be 
+targeting out of the new 1000 customer list as well as the broader market segment to reach out to. 
+
 
 ---
 
